@@ -1,28 +1,33 @@
-# NAME
+# kutil-github
+
+## About
+
+* discord通知
+* nexusへ載せる
+* 自動リリース
 
 ## Requirement
+
+* java
+* github
+* nexus
+* JDA-Utilities
 
 ## Author
 
 * kigawa
   * kigawa.8390@gmail.com
 
-## About
-
-
 # Making
 
 ## Version
 
-### Example: 9.1a
+### Example: 9.1dev
 
 * **9.1dev**
-  * プラグインのバージョン
+  * バージョン
   * **9**: メジャー
   * **1**: マイナー
-  * **dev**: プラグインのバージョン バグがあるかもしれない(dev)/致命的なバグがないと思われる(b)/バグはないと思われる(R)
+  * **dev**: ブランチ/mainのときはなし
 
 ## ToDo
-
-
-## ChangeLog
